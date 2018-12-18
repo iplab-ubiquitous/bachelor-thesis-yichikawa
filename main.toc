@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {第1章}序論}{1}
+\contentsline {section}{\numberline {1.1}背景}{1}
+\contentsline {section}{\numberline {1.2}目的・アプローチ}{1}
+\contentsline {section}{\numberline {1.3}貢献}{1}
+\contentsline {section}{\numberline {1.4}本論文の構成}{1}
+\contentsline {chapter}{\numberline {第2章}関連研究}{2}
+\contentsline {section}{\numberline {2.1}足をカーソル操作として用いる研究}{2}
+\contentsline {chapter}{\numberline {第3章}設計}{3}
+\contentsline {section}{\numberline {3.1}概要}{3}
+\contentsline {chapter}{\numberline {第4章}実装}{4}
+\contentsline {section}{\numberline {4.1}概要}{4}
+\contentsline {section}{\numberline {4.2}ハードウェア}{4}
+\contentsline {section}{\numberline {4.3}ソフトウェア}{5}
+\contentsline {chapter}{\numberline {第5章}実験1:フィッツの法則を用いた足によるポインタ操作の評価}{6}
+\contentsline {chapter}{\numberline {第6章}議論}{7}
+\contentsline {chapter}{\numberline {第7章}アプリケーション例}{8}
+\contentsline {chapter}{\numberline {第8章}実験2:実際のアプリケーションを用いた評価}{9}
+\contentsline {chapter}{\numberline {第9章}結論}{10}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{11}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{12}

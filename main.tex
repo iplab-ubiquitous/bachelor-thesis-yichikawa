@@ -1,0 +1,176 @@
+%%
+% このファイルは、筑波大学情報学群情報科学類の
+% 卒業研究論文本体のサンプルです。
+% このファイルを書き換えて、この例と同じような書式の論文本体を
+% LaTeXを使って作成することができます。
+%
+% PC環境や、LaTeX環境の設定によっては漢字コードや改行コードを
+% 変更する必要があります。
+%%
+\documentclass[a4paper,11pt]{jreport}
+
+%%【PostScript, JPEG, PNG等の画像の貼り込み】
+%% 利用するパッケージを選んでコメントアウトしてください。
+%\usepackage{graphicx} % for \includegraphics[width=3cm]{sample.eps}
+\usepackage[dvipdfmx]{graphicx, color}
+%\usepackage{epsfig} % for \psfig{file=sample.eps,width=3cm}
+%\usepackage{epsf} % for \epsfile{file=sample.eps,scale=0.6}
+%\usepackage{epsbox} % for \epsfile{file=sample.eps,scale=0.6}
+
+%% dvipdfm を使う場合(dvi->pdfを直接生成する場合)
+%\usepackage[dvipdfmx]{color}
+%% dvipdfm を使ってPDFの「しおり」を付ける場合
+%\usepackage[dvipdfm,bookmarks=true,bookmarksnumbered=true,bookmarkstype=toc]{hyperref}
+%% 参考：dvipdfm 日本語版
+%% http://hamilcar.phys.kyushu-u.ac.jp/~hirata/dvipdfm/
+\usepackage[left=25truemm,top=35truemm,right=25truemm,bottom=50truemm]{geometry}
+\usepackage{times} % use Times Font instead of Computer Modern
+
+\setcounter{tocdepth}{3}
+\setcounter{page}{-1}
+
+\setlength{\parskip}{0em}
+\setlength{\topsep}{0em}
+
+%\newcommand{\zu}[1]{{\gt \bf 図\ref{#1}}}
+
+%% タイトル生成用パッケージ(重要)
+\usepackage{coins-jp-utf8}
+
+\usepackage{siunitx}
+\usepackage{amsmath}
+\usepackage[margin=5pt]{subcaption}
+\input{00_macro.tex}
+
+%%
+\newcommand{\iic}{\text{I}$^\text{2}$\text{C}}
+
+
+%% タイトル
+%% 【注意】タイトルの最後に\\ を入れるとエラーになります
+%\title{密閉容器における受動音響センシングによる内容量推定}
+\multilinetitle{距離センサを用いた膝の動きによるカーソル操作手法}
+%% 著者
+\author{市川　佑}
+%% 指導教員
+\advisor{高橋伸\ \ 志築文太郎}
+
+%% 専攻名 と 年月 (提出年月)
+%% 年月は必要に応じて書き替えてください。
+\heiseiyear{30}  % 平成の年度
+%\majorfield{ソフトウェアサイエンス主専攻}
+\majorfield{情報システム主専攻}
+%\majorfield{知能情報メディア主専攻}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+\newpage
+
+\thispagestyle{empty}
+\vspace*{20pt plus 1fil}
+\parindent=1zw
+\noindent
+%%
+%% 論文の概要(Abstract)
+%%
+\begin{center}
+{\Large \bf 要　　旨}
+\vspace{2cm}
+\end{center}
+本研究では、\fixme{デスクトップ環境下において}
+
+%%%%%
+\par
+\vspace{0pt plus 1fil}
+\newpage
+
+\pagenumbering{roman} % I, II, III, IV
+\tableofcontents
+\listoffigures
+\listoftables
+
+\pagebreak \setcounter{page}{1}
+\pagenumbering{arabic} % 1,2,3
+
+\input{background}
+\input{relatedwork}
+\input{prototype}
+\input{system}
+\input{exp1_fitts}
+\input{discussion}
+\input{application}
+\input{exp2_usability}
+\input{conclusion}
+\input{acknowledgement}
+
+
+
+
+%図表には番号と説明(caption)を付け、文章中で参照する。表
+%\ref{table:fundamental_data_type}と図\ref{figure:sample}はそれぞれ表と図
+%の例である。表の説明は上に、図の説明は下に書くことが多い。図の挿入に用い
+%るパッケージについては使用環境に合わせて自由に選択してほしい。
+
+%\begin{table}[hbt]
+%\caption{表の例}
+%\label{table:fundamental_data_type}
+%\begin{center}
+%\begin{tabular}{| c | r | r | r | r |}
+%\hline
+%年 度 & 1年次 & 2年次 & 3年次 & 4年次 \\
+%\hline
+%1995 & 85 & 92 & 86 & 88 \\
+%1996 & 83 & 89 & 90 & 102 \\
+%1997 & 88 & 87 & 91 & 112 \\
+%1998 & 144 & 93 & 90 & 115 \\
+%\hline
+%\end{tabular}
+%\end{center}
+%\end{table}
+%\medskip
+
+%\begin{figure}[htbp]
+%\begin{center}
+%\includegraphics[width=3cm]{sample.eps}
+%\psfig{file=sample.eps,scale=0.6}
+%\epsfile{file=sample.eps,scale=0.6}
+%\end{center}
+%\caption{図の例}
+%\label{figure:sample}
+%\end{figure}
+
+
+
+
+
+\newpage
+
+\addcontentsline{toc}{chapter}{\numberline{}参考文献}
+\renewcommand{\bibname}{参考文献}
+
+%% 参考文献に jbibtex を使う場合
+\bibliographystyle{junsrt}
+\bibliography{ref}
+%% [compile] jbibtex sample; platex sample; platex sample;
+
+%% 参考文献を直接ファイルに含めて書く場合
+%\begin{thebibliography}{1}
+%\bibitem{RakRak}
+%野寺隆志.
+%\newblock 楽々 \LaTeX.
+%\newblock 共立出版, 1990.
+
+%\bibitem{JiyuuJizai}
+%磯崎秀樹.
+%\newblock \LaTeX 自由自在.
+%\newblock サイエンス社, July 1992.
+
+%\bibitem{bryant-ieeetc86}
+%Randal~E. Bryant.
+%\newblock Graph-based algorithms for {B}oolean function manipulation.
+%\newblock {\em IEEE Transactions on Computers}, Vol. C-35, No.~8, pp. 677--691,
+%  August 1986.
+%\end{thebibliography}
+
+\end{document}

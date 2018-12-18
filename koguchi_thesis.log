@@ -1,0 +1,55 @@
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.12)  12 DEC 2018 11:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"/Users/amylase/TeX report/bachelor-thesis-yichikawa/bachelor-thesis-yichikawa/koguchi_thesis.tex"
+(/Users/amylase/TeX report/bachelor-thesis-yichikawa/bachelor-thesis-yichikawa/koguchi_thesis.tex
+pLaTeX2e <2017/05/05> (based on LaTeX2e <2017-04-15>)
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujreport.cls
+Document Class: ujreport 2017/03/05 v1.7e-u00 Standard upLaTeX class
+\c@@paper=\count82
+(/usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujsize11.clo
+File: ujsize11.clo 2017/03/05 v1.7e-u00 Standard upLaTeX file (size option)
+)
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+
+
+! LaTeX Error: Encoding scheme `JY2' unknown.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.701 ...\DeclareSymbolFont{mincho}{JY2}{mc}{m}{n}
+                                                  
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.701 ...\DeclareSymbolFont{mincho}{JY2}{mc}{m}{n}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ 
+Here is how much of TeX's memory you used:
+ 218 strings out of 493653
+ 2896 string characters out of 6148874
+ 58709 words of memory out of 5000000
+ 3893 multiletter control sequences out of 15000+600000
+ 8274 words of font info for 34 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 22i,0n,19p,204b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
