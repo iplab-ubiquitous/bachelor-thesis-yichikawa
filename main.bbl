@@ -50,4 +50,10 @@ Yasmin Felberbaum and Joel Lanir.
 奥村典明.
 \newblock モバイル環境における足入力インタフェースの研究, 2011.
 
+\bibitem{Xiao:2018:LOP:3173574.3173669}
+Robert Xiao, Teng Cao, Ning Guo, Jun Zhuo, Yang Zhang, and Chris Harrison.
+\newblock Lumiwatch: On-arm projected graphics and touch input.
+\newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, CHI '18, pp. 95:1--95:11, New York, NY, USA, 2018. ACM.
+
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.12)  18 DEC 2018 17:06
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.12)  19 DEC 2018 13:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -586,30 +586,36 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 
 ]
 第 4 章
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
 File: ./img/IMG_1794.jpg Graphic file (type bmp)
-<./img/IMG_1794.jpg>) (./exp1_fitts.tex [4
+<./img/IMG_1794.jpg> [4
 
-] [5]
+] [5]) (./exp1_fitts.tex [6]
 第 5 章
-) (./discussion.tex [6
+) (./discussion.tex [7
 
 ]
 第 6 章
-) (./application.tex [7
+) (./application.tex [8
 
 ]
 第 7 章
-) (./exp2_usability.tex [8
+) (./exp2_usability.tex [9
 
 ]
 第 8 章
-) (./conclusion.tex [9
+) (./conclusion.tex [10
 
 ]
 第 9 章
-) (./acknowledgement.tex [10
+) (./acknowledgement.tex [11
 
-]) [11
+]) [12
 
 ] (./main.bbl
 
@@ -620,7 +626,7 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 6.
 
-) [12
+) [13
 
 ] (./main.aux)
 
@@ -628,12 +634,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12875 strings out of 493653
- 262358 string characters out of 6148874
+ 12891 strings out of 493653
+ 262568 string characters out of 6148874
  290874 words of memory out of 5000000
- 16332 multiletter control sequences out of 15000+600000
- 24861 words of font info for 89 fonts, out of 8000000 for 9000
+ 16348 multiletter control sequences out of 15000+600000
+ 25887 words of font info for 91 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 42i,8n,40p,10455b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,9n,40p,10455b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (17 pages, 20560 bytes).
+Output written on main.dvi (18 pages, 28068 bytes).

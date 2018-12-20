@@ -9,12 +9,15 @@
 \contentsline {section}{\numberline {3.1}概要}{3}
 \contentsline {chapter}{\numberline {第4章}実装}{4}
 \contentsline {section}{\numberline {4.1}概要}{4}
-\contentsline {section}{\numberline {4.2}ハードウェア}{4}
-\contentsline {section}{\numberline {4.3}ソフトウェア}{5}
-\contentsline {chapter}{\numberline {第5章}実験1:フィッツの法則を用いた足によるポインタ操作の評価}{6}
-\contentsline {chapter}{\numberline {第6章}議論}{7}
-\contentsline {chapter}{\numberline {第7章}アプリケーション例}{8}
-\contentsline {chapter}{\numberline {第8章}実験2:実際のアプリケーションを用いた評価}{9}
-\contentsline {chapter}{\numberline {第9章}結論}{10}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{11}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{12}
+\contentsline {section}{\numberline {4.2}プロトタイプ1}{4}
+\contentsline {subsection}{\numberline {4.2.1}ハードウェア}{4}
+\contentsline {subsection}{\numberline {4.2.2}ソフトウェア}{4}
+\contentsline {subsection}{\numberline {4.2.3}プロトタイプ1の問題点}{5}
+\contentsline {section}{\numberline {4.3}プロトタイプ2}{6}
+\contentsline {chapter}{\numberline {第5章}実験1:フィッツの法則を用いた足によるポインタ操作の評価}{7}
+\contentsline {chapter}{\numberline {第6章}議論}{8}
+\contentsline {chapter}{\numberline {第7章}アプリケーション例}{9}
+\contentsline {chapter}{\numberline {第8章}実験2:実際のアプリケーションを用いた評価}{10}
+\contentsline {chapter}{\numberline {第9章}結論}{11}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{12}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{13}
