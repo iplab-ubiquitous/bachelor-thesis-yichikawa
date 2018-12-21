@@ -1,31 +1,4 @@
-\begin{thebibliography}{1}
-
-\bibitem{1698228}
-W.~K. English, D.~C. Engelbart, and M.~L. Berman.
-\newblock Display-selection techniques for text manipulation.
-\newblock {\em IEEE Transactions on Human Factors in Electronics}, Vol. HFE-8,
-  No.~1, pp. 5--15, March 1967.
-
-\bibitem{velloso:hal-01599657}
-Eduardo Velloso, Jason Alexander, Andreas Bulling, and Hans Gellersen.
-\newblock {Interactions Under the Desk: A Characterisation of Foot Movements
-  for Input in a Seated Position}.
-\newblock In {\em {15th Human-Computer Interaction (INTERACT)}}, Vol. LNCS-9296
-  of {\em Human-Computer Interaction -- INTERACT 2015}, pp. 384--401, Bamberg,
-  Germany, September 2015.
-
-\bibitem{110004704997}
-田中則子, 上田知生, 中尾恵, 佐藤哲大, 湊小太郎, 吉田正樹, 纐纈和美.
-\newblock 足指マウス開発にむけての基礎的検討 : 母指の運動特性.
-\newblock 生体医工学 : 日本エム・イー学会誌, Vol.~43, No.~4, pp. 790--794, dec
-  2005.
-
-\bibitem{Horodniczy:2017:FHE:3025453.3025625}
-Daniel Horodniczy and Jeremy~R. Cooperstock.
-\newblock Free the hands! enhanced target selection via a variable-friction
-  shoe.
-\newblock In {\em Proceedings of the 2017 CHI Conference on Human Factors in
-  Computing Systems}, CHI '17, pp. 255--259, New York, NY, USA, 2017. ACM.
+\begin{thebibliography}{10}
 
 \bibitem{Alexander:2012:PYB:2207676.2208575}
 Jason Alexander, Teng Han, William Judd, Pourang Irani, and Sriram Subramanian.
@@ -49,6 +22,45 @@ Yasmin Felberbaum and Joel Lanir.
 \bibitem{okumura_2011}
 奥村典明.
 \newblock モバイル環境における足入力インタフェースの研究, 2011.
+
+\bibitem{1698228}
+W.~K. English, D.~C. Engelbart, and M.~L. Berman.
+\newblock Display-selection techniques for text manipulation.
+\newblock {\em IEEE Transactions on Human Factors in Electronics}, Vol. HFE-8,
+  No.~1, pp. 5--15, March 1967.
+
+\bibitem{Pearson:1986:MMD:22627.22392}
+G.~Pearson and M.~Weiser.
+\newblock Of moles and men: The design of foot controls for workstations.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '86, pp. 333--339, New York, NY, USA, 1986. ACM.
+
+\bibitem{Pearson:1988:EET:49108.1046356}
+Glenn Pearson and Mark Weiser.
+\newblock Exploratory evaluations of two versions of a foot-operated
+  cursor-positioning device in a target-selection task.
+\newblock {\em SIGCHI Bull.}, Vol.~19, No.~3, pp. 70--75, January 1988.
+
+\bibitem{velloso:hal-01599657}
+Eduardo Velloso, Jason Alexander, Andreas Bulling, and Hans Gellersen.
+\newblock {Interactions Under the Desk: A Characterisation of Foot Movements
+  for Input in a Seated Position}.
+\newblock In {\em {15th Human-Computer Interaction (INTERACT)}}, Vol. LNCS-9296
+  of {\em Human-Computer Interaction -- INTERACT 2015}, pp. 384--401, Bamberg,
+  Germany, September 2015.
+
+\bibitem{110004704997}
+田中則子, 上田知生, 中尾恵, 佐藤哲大, 湊小太郎, 吉田正樹, 纐纈和美.
+\newblock 足指マウス開発にむけての基礎的検討 : 母指の運動特性.
+\newblock 生体医工学 : 日本エム・イー学会誌, Vol.~43, No.~4, pp. 790--794, dec
+  2005.
+
+\bibitem{Horodniczy:2017:FHE:3025453.3025625}
+Daniel Horodniczy and Jeremy~R. Cooperstock.
+\newblock Free the hands! enhanced target selection via a variable-friction
+  shoe.
+\newblock In {\em Proceedings of the 2017 CHI Conference on Human Factors in
+  Computing Systems}, CHI '17, pp. 255--259, New York, NY, USA, 2017. ACM.
 
 \bibitem{Xiao:2018:LOP:3173574.3173669}
 Robert Xiao, Teng Cao, Ning Guo, Jun Zhuo, Yang Zhang, and Chris Harrison.
