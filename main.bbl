@@ -1,33 +1,30 @@
 \begin{thebibliography}{10}
 
-\bibitem{Alexander:2012:PYB:2207676.2208575}
-Jason Alexander, Teng Han, William Judd, Pourang Irani, and Sriram Subramanian.
-\newblock Putting your best foot forward: Investigating real-world mappings for
-  foot-based gestures.
-\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems}, CHI '12, pp. 1229--1238, New York, NY, USA, 2012. ACM.
-
-\bibitem{Felberbaum:2018:BUF:3173574.3173908}
-Yasmin Felberbaum and Joel Lanir.
-\newblock Better understanding of foot gestures: An elicitation study.
-\newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
-  Computing Systems}, CHI '18, pp. 334:1--334:12, New York, NY, USA, 2018. ACM.
-
-\bibitem{ssuzuki_2009}
-鈴木茂徳.
-\newblock
-  フットワークインタラクションのための測域センサによる足の位置・動作の認識手法,
-  2009.
-
-\bibitem{okumura_2011}
-奥村典明.
-\newblock モバイル環境における足入力インタフェースの研究, 2011.
-
 \bibitem{1698228}
 W.~K. English, D.~C. Engelbart, and M.~L. Berman.
 \newblock Display-selection techniques for text manipulation.
 \newblock {\em IEEE Transactions on Human Factors in Electronics}, Vol. HFE-8,
   No.~1, pp. 5--15, March 1967.
+
+\bibitem{Augsten:2010:MHI:1866029.1866064}
+Thomas Augsten, Konstantin Kaefer, Ren{\'e} Meusel, Caroline Fetzer, Dorian
+  Kanitz, Thomas Stoff, Torsten Becker, Christian Holz, and Patrick Baudisch.
+\newblock Multitoe: High-precision interaction with back-projected floors based
+  on high-resolution multi-touch input.
+\newblock In {\em Proceedings of the 23Nd Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '10, pp. 209--218, New York, NY,
+  USA, 2010. ACM.
+
+\bibitem{Fan:2017:ESF:3123021.3123043}
+Mingming Fan, Yizheng Ding, Fang Shen, Yuhui You, and Zhi Yu.
+\newblock An empirical study of foot gestures for hands-occupied mobile
+  interaction.
+\newblock In {\em Proceedings of the 2017 ACM International Symposium on
+  Wearable Computers}, ISWC '17, pp. 172--173, New York, NY, USA, 2017. ACM.
+
+\bibitem{okumura_2011}
+奥村典明.
+\newblock モバイル環境における足入力インタフェースの研究, 2011.
 
 \bibitem{Pearson:1986:MMD:22627.22392}
 G.~Pearson and M.~Weiser.
@@ -41,6 +38,13 @@ Glenn Pearson and Mark Weiser.
   cursor-positioning device in a target-selection task.
 \newblock {\em SIGCHI Bull.}, Vol.~19, No.~3, pp. 70--75, January 1988.
 
+\bibitem{Horodniczy:2017:FHE:3025453.3025625}
+Daniel Horodniczy and Jeremy~R. Cooperstock.
+\newblock Free the hands! enhanced target selection via a variable-friction
+  shoe.
+\newblock In {\em Proceedings of the 2017 CHI Conference on Human Factors in
+  Computing Systems}, CHI '17, pp. 255--259, New York, NY, USA, 2017. ACM.
+
 \bibitem{velloso:hal-01599657}
 Eduardo Velloso, Jason Alexander, Andreas Bulling, and Hans Gellersen.
 \newblock {Interactions Under the Desk: A Characterisation of Foot Movements
@@ -49,23 +53,45 @@ Eduardo Velloso, Jason Alexander, Andreas Bulling, and Hans Gellersen.
   of {\em Human-Computer Interaction -- INTERACT 2015}, pp. 384--401, Bamberg,
   Germany, September 2015.
 
-\bibitem{110004704997}
-田中則子, 上田知生, 中尾恵, 佐藤哲大, 湊小太郎, 吉田正樹, 纐纈和美.
-\newblock 足指マウス開発にむけての基礎的検討 : 母指の運動特性.
-\newblock 生体医工学 : 日本エム・イー学会誌, Vol.~43, No.~4, pp. 790--794, dec
-  2005.
-
-\bibitem{Horodniczy:2017:FHE:3025453.3025625}
-Daniel Horodniczy and Jeremy~R. Cooperstock.
-\newblock Free the hands! enhanced target selection via a variable-friction
-  shoe.
-\newblock In {\em Proceedings of the 2017 CHI Conference on Human Factors in
-  Computing Systems}, CHI '17, pp. 255--259, New York, NY, USA, 2017. ACM.
+\bibitem{AIRBAR}
+Airbar.
+\newblock https://air.bar.
 
 \bibitem{Xiao:2018:LOP:3173574.3173669}
 Robert Xiao, Teng Cao, Ning Guo, Jun Zhuo, Yang Zhang, and Chris Harrison.
 \newblock Lumiwatch: On-arm projected graphics and touch input.
 \newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
   Computing Systems}, CHI '18, pp. 95:1--95:11, New York, NY, USA, 2018. ACM.
+
+\bibitem{Alexander:2012:PYB:2207676.2208575}
+Jason Alexander, Teng Han, William Judd, Pourang Irani, and Sriram Subramanian.
+\newblock Putting your best foot forward: Investigating real-world mappings for
+  foot-based gestures.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '12, pp. 1229--1238, New York, NY, USA, 2012. ACM.
+
+\bibitem{Felberbaum:2018:BUF:3173574.3173908}
+Yasmin Felberbaum and Joel Lanir.
+\newblock Better understanding of foot gestures: An elicitation study.
+\newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, CHI '18, pp. 334:1--334:12, New York, NY, USA, 2018. ACM.
+
+\bibitem{Saunders:2016:TFI:2901790.2901815}
+William Saunders and Daniel Vogel.
+\newblock Tap-kick-click: Foot interaction for a standing desk.
+\newblock In {\em Proceedings of the 2016 ACM Conference on Designing
+  Interactive Systems}, DIS '16, pp. 323--333, New York, NY, USA, 2016. ACM.
+
+\bibitem{ssuzuki_2009}
+鈴木茂徳.
+\newblock
+  フットワークインタラクションのための測域センサによる足の位置・動作の認識手法,
+  2009.
+
+\bibitem{110004704997}
+田中則子, 上田知生, 中尾恵, 佐藤哲大, 湊小太郎, 吉田正樹, 纐纈和美.
+\newblock 足指マウス開発にむけての基礎的検討 : 母指の運動特性.
+\newblock 生体医工学 : 日本エム・イー学会誌, Vol.~43, No.~4, pp. 790--794, dec
+  2005.
 
 \end{thebibliography}
