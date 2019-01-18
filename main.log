@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.12)  26 DEC 2018 13:30
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.12)  18 JAN 2019 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -455,7 +455,11 @@ Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionskip
 )
 \c@subfigure=\count167
 \c@subtable=\count168
-) (./00_macro.tex) (./main.aux)
+) (./00_macro.tex) (./main.aux
+
+LaTeX Warning: Label `formula:fitts' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
@@ -523,11 +527,6 @@ Package caption Info: End \AtBeginDocument code.
 \c__siunitx_mathsf_int=\count169
 \c__siunitx_mathtt_int=\count170
 
-Overfull \hbox (45.33264pt too wide) in paragraph at lines 66--66
- []|   [] 
- []
-
-
 Underfull \vbox (badness 10000) detected at line 66
  []
 
@@ -574,86 +573,91 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 
 ] (./background.tex
 第 1 章
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 22.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
  [1
 
 ]) (./relatedwork.tex [2]
 第 2 章
-[3
+File: ./img/multitoe.png Graphic file (type bmp)
+<./img/multitoe.png> [3
 
-]) (./system.tex [4]
+] [4]) (./system.tex [5]
 第 3 章
+File: ./img/sousa_overview.pdf Graphic file (type pdf)
+<./img/sousa_overview.pdf>
+File: ./img/sousa3.pdf Graphic file (type pdf)
+ <./img/sousa3.pdf>
+File: ./img/sousa1.pdf Graphic file (type pdf)
+ <./img/sousa1.pdf>) (./implementation.tex [6
+
+] [7] [8] [9]
+第 4 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 11.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 11.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
-[5
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+[10
 
 ]
-File: ./img/sousa1.pdf Graphic file (type pdf)
- <./img/sousa1.pdf>
-File: ./img/sousa2.pdf Graphic file (type pdf)
- <./img/sousa2.pdf>
-File: ./img/sousa3.pdf Graphic file (type pdf)
- <./img/sousa3.pdf>) (./implementation.tex [6] [7] [8]
-第 4 章
-File: ./img/IMG_0065.jpg Graphic file (type bmp)
-<./img/IMG_0065.jpg> [9
-
-] [10]
+File: ./img/proto.pdf Graphic file (type pdf)
+ <./img/proto.pdf>
 File: ./img/proto2-1.pdf Graphic file (type pdf)
  <./img/proto2-1.pdf>) (./exp1_fitts.tex [11] [12]
 第 5 章
-) (./discussion.tex [13
+File: ./img/mdpt.png Graphic file (type bmp)
+<./img/mdpt.png> [13
 
-]
+] [14]
+File: ./img/left.pdf Graphic file (type pdf)
+ <./img/left.pdf>
+File: ./img/right.pdf Graphic file (type pdf)
+ <./img/right.pdf>
+File: ./img/error.pdf Graphic file (type pdf)
+ <./img/error.pdf>
+File: ./img/tp.pdf Graphic file (type pdf)
+ <./img/tp.pdf>) (./discussion.tex [15] [16] [17] [18] [19]
 第 6 章
-) (./application.tex [14
+) (./conclusion.tex [20
 
 ]
 第 7 章
-) (./exp2_usability.tex [15
+) (./acknowledgement.tex [21
 
-]
-第 8 章
-) (./conclusion.tex [16
-
-]
-第 9 章
-) (./acknowledgement.tex [17
-
-]) [18
+]) [22
 
 ] (./main.bbl
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
-(Font)              using `JT1/gt/m/n' instead on input line 6.
+(Font)              using `JT1/gt/m/n' instead on input line 8.
 
 
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
-(Font)              using `JY1/gt/m/n' instead on input line 6.
+(Font)              using `JY1/gt/m/n' instead on input line 8.
 
-[19
+[23
 
-]) [20] (./main.aux)
+]) [24] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 12931 strings out of 493653
- 263353 string characters out of 6148874
- 291874 words of memory out of 5000000
- 16381 multiletter control sequences out of 15000+600000
+ 12953 strings out of 493653
+ 263822 string characters out of 6148874
+ 293874 words of memory out of 5000000
+ 16405 multiletter control sequences out of 15000+600000
  25887 words of font info for 91 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 42i,9n,44p,10455b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,44p,10455b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (26 pages, 44772 bytes).
+Output written on main.dvi (30 pages, 59224 bytes).

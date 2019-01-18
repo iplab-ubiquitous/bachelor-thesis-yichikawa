@@ -1,14 +1,18 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Multitoe\cite {Augsten:2010:MHI:1866029.1866064}\relax }}{4}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces 操作方法案1\relax }}{6}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces 操作方法案2\relax }}{7}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces 操作方法案3\relax }}{8}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 膝によるマウスカーソル操作のイメージ\relax }}{7}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 上下方向の操作イメージ1\relax }}{8}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 上下方向の操作イメージ2\relax }}{9}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces 製作したプロトタイプ\relax }}{10}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 製作したプロトタイプの一部\relax }}{11}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces 移動物体に対する距離センサの設置方向概念図\relax }}{12}
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 使用したプログラム\relax }}{14}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 左膝の選択時間とそのモデル\relax }}{16}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 右膝の選択時間とそのモデル\relax }}{17}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 両膝のエラー率\relax }}{18}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 両膝のスループット\relax }}{19}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

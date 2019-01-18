@@ -4,50 +4,50 @@ The top-level auxiliary file: /Users/amylase/TeX report/bachelor-thesis-yichikaw
 The style file: junsrt.bst
 Database file #1: ref.bib
 Warning--entry type for "okumura_2011" isn't style-file defined
---line 224 of file ref.bib
+--line 280 of file ref.bib
 Warning--entry type for "ssuzuki_2009" isn't style-file defined
---line 231 of file ref.bib
+--line 287 of file ref.bib
 Warning--can't use both volume and number fields in velloso:hal-01599657
-You've used 15 entries,
+You've used 17 entries,
             2270 wiz_defined-function locations,
-            645 strings with 7621 characters,
-and the built_in function-call counts, 6008 in all, are:
-= -- 525
-> -- 168
-< -- 19
-+ -- 66
-- -- 51
-* -- 322
-:= -- 705
-add.period$ -- 50
-call.type$ -- 15
-change.case$ -- 15
+            664 strings with 8540 characters,
+and the built_in function-call counts, 7243 in all, are:
+= -- 648
+> -- 206
+< -- 22
++ -- 80
+- -- 63
+* -- 394
+:= -- 861
+add.period$ -- 60
+call.type$ -- 17
+change.case$ -- 17
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 367
-empty$ -- 569
-format.name$ -- 102
-if$ -- 1516
+cite$ -- 18
+duplicate$ -- 440
+empty$ -- 671
+format.name$ -- 126
+if$ -- 1827
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 12
-newline$ -- 75
-num.names$ -- 14
-pop$ -- 98
+int.to.str$ -- 17
+missing$ -- 15
+newline$ -- 86
+num.names$ -- 17
+pop$ -- 99
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 315
+skip$ -- 377
 stack$ -- 0
-substring$ -- 389
-swap$ -- 133
-text.length$ -- 19
+substring$ -- 485
+swap$ -- 162
+text.length$ -- 22
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 47
-width$ -- 17
-write$ -- 183
-is.kanji.str$ -- 183
+while$ -- 59
+width$ -- 19
+write$ -- 218
+is.kanji.str$ -- 215
 (There were 3 warnings)
