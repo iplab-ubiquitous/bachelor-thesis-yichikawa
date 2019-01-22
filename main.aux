@@ -7,9 +7,11 @@
 \citation{Pearson:1986:MMD:22627.22392}
 \citation{Pearson:1988:EET:49108.1046356}
 \citation{Horodniczy:2017:FHE:3025453.3025625}
+\citation{1698228}
 \@writefile{toc}{\contentsline {chapter}{\numberline {第1章}序論}{1}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{cha:background}{{1}{1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}背景}{1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.2}目的・アプローチ}{1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}貢献}{1}}
@@ -32,70 +34,93 @@
 \@writefile{toc}{\contentsline {chapter}{\numberline {第2章}関連研究}{3}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{cha:relatedwork}{{2}{3}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.1}足をジェスチャ入力として用いる研究}{3}}
-\@writefile{toc}{\contentsline {section}{\numberline {2.2}デスクトップ環境を想定した足による入力の研究}{3}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}机上のコンピュータの操作という環境を想定した足による入力の研究}{3}}
 \citation{Gobel:2013:GFI:2468356.2479610}
 \citation{Rajanna:2016:GFI:2876456.2876462}
-\citation{1698228}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Multitoe\cite  {Augsten:2010:MHI:1866029.1866064}\relax }}{4}}
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
 \newlabel{img:multitoe}{{2.1}{4}}
+\citation{1698228}
 \@writefile{toc}{\contentsline {section}{\numberline {2.3}膝を入力手法として用いる研究}{5}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第3章}システム}{6}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第3章}膝の位置認識方法の設計}{6}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{cha:system}{{3}{6}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.1}概要}{6}}
-\@writefile{toc}{\contentsline {section}{\numberline {3.2}膝の操作}{6}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}認識する膝の動作}{6}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces 膝によるマウスカーソル操作のイメージ\relax }}{7}}
 \newlabel{img:ov}{{3.1}{7}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces 上下方向の操作イメージ1\relax }}{8}}
 \newlabel{img:sousa3}{{3.2}{8}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces 上下方向の操作イメージ2\relax }}{9}}
 \newlabel{img:sousa1}{{3.3}{9}}
-\citation{Xiao:2018:LOP:3173574.3173669}
 \@writefile{toc}{\contentsline {chapter}{\numberline {第4章}実装}{10}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \newlabel{cha:implementation}{{4}{10}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}概要}{10}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}プロトタイプ}{10}}
-\newlabel{sec:proto1}{{4.2}{10}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}ハードウェア}{10}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}ソフトウェア}{10}}
-\newlabel{formula:f1}{{4.1}{11}}
-\newlabel{formula:f2}{{4.2}{11}}
-\newlabel{formula:f3}{{4.3}{11}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces 製作したプロトタイプの一部\relax }}{11}}
-\newlabel{img:im1}{{4.1}{11}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces 移動物体に対する距離センサの設置方向概念図\relax }}{12}}
-\newlabel{img:im2}{{4.2}{12}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第5章}実験:膝によるマウスカーソル操作の性能評価}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces プロトタイプの概念図\relax }}{10}}
+\newlabel{img:proto_outline}{{4.1}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}ハードウェア}{10}}
+\newlabel{sec:proto1}{{4.1}{10}}
+\citation{Xiao:2018:LOP:3173574.3173669}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}ソフトウェア}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}指数移動平均フィルタ}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}膝の位置の計算}{11}}
+\newlabel{ssec:acq}{{4.2.2}{11}}
+\newlabel{formula:f1}{{4.2}{12}}
+\newlabel{formula:f2}{{4.3}{12}}
+\newlabel{formula:f3}{{4.4}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}キャリブレーション}{12}}
+\newlabel{ssec:cal}{{4.2.3}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}カーソル座標への適用}{12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces 製作したプロトタイプの一部\relax }}{13}}
+\newlabel{img:im1}{{4.2}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces 移動物体に対する距離センサの設置方向概念図\relax }}{14}}
+\newlabel{img:im2}{{4.3}{14}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第5章}実験:膝によるマウスカーソル操作の性能評価}{15}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {5.1}目的}{13}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.2}評価方法}{13}}
-\newlabel{formula:fitts}{{5.1}{13}}
-\newlabel{formula:fitts}{{5.2}{13}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.3}実験手順}{14}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces 使用したプログラム\relax }}{14}}
-\newlabel{img:mdpt}{{5.1}{14}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.4}収集データ}{15}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.5}実験結果}{15}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces 左膝の選択時間とそのモデル\relax }}{16}}
-\newlabel{img:exp_left}{{5.2}{16}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces 右膝の選択時間とそのモデル\relax }}{17}}
-\newlabel{img:exp_right}{{5.3}{17}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces 両膝のエラー率\relax }}{18}}
-\newlabel{img:exp_error}{{5.4}{18}}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces 両膝のスループット\relax }}{19}}
-\newlabel{img:exp_tp}{{5.5}{19}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第6章}議論}{20}}
+\newlabel{cha:exp}{{5}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}目的}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}評価方法}{15}}
+\newlabel{formula:fitts}{{5.1}{15}}
+\newlabel{formula:fitts}{{5.2}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}実験手順}{16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces 使用したプログラム\relax }}{16}}
+\newlabel{img:mdpt}{{5.1}{16}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}収集データ}{17}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.5}実験結果}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces 左膝の選択時間とそのモデル\relax }}{18}}
+\newlabel{img:exp_left}{{5.2}{18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.3}{\ignorespaces 右膝の選択時間とそのモデル\relax }}{19}}
+\newlabel{img:exp_right}{{5.3}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.4}{\ignorespaces 両膝のエラー率\relax }}{20}}
+\newlabel{img:exp_error}{{5.4}{20}}
+\@writefile{lot}{\contentsline {table}{\numberline {5.1}{\ignorespaces アンケートの結果\relax }}{21}}
+\newlabel{tab:anche}{{5.1}{21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.5}{\ignorespaces 両膝のスループット\relax }}{22}}
+\newlabel{img:exp_tp}{{5.5}{22}}
+\citation{Horodniczy:2017:FHE:3025453.3025625}
+\citation{velloso:hal-01599657}
+\citation{Horodniczy:2017:FHE:3025453.3025625}
+\citation{velloso:hal-01599657}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第6章}議論と今後の展望}{23}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第7章}結論}{21}}
+\newlabel{cha:discussion}{{6}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.1}ハードウェア設計}{23}}
+\newlabel{sec:hd}{{6.1}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.1}膝の運動の特徴}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1.2}距離センサの個数}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.2}エラー率とキャリブレーション}{23}}
+\@writefile{toc}{\contentsline {section}{\numberline {6.3}操作性と疲労感の改善}{24}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第7章}結論}{25}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{22}}
+\newlabel{cha:conclusion}{{7}{25}}
+\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{26}}
 \bibstyle{junsrt}
 \bibdata{ref}
 \bibcite{Augsten:2010:MHI:1866029.1866064}{1}
@@ -108,7 +133,7 @@
 \bibcite{Alexander:2012:PYB:2207676.2208575}{8}
 \bibcite{Han:2011:KIU:2037373.2037379}{9}
 \bibcite{ssuzuki_2009}{10}
-\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{23}}
+\@writefile{toc}{\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{27}}
 \bibcite{Felberbaum:2018:BUF:3173574.3173908}{11}
 \bibcite{Saunders:2016:TFI:2901790.2901815}{12}
 \bibcite{velloso:hal-01599657}{13}

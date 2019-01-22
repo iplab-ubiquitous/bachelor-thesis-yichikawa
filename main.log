@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.12)  18 JAN 2019 15:49
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.12)  21 JAN 2019 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -80,15 +80,24 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks16
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment') (/usr/local/texlive/2017/texmf-dist/tex/latex/here/here.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks17
+\float@box=\box42
+\@float@everytoks=\toks18
+\@floatcapt=\box43
 ) (./coins-jp-utf8.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box42
-\UL@hyphenbox=\box43
+\UL@box=\box44
+\UL@hyphenbox=\box45
 \UL@skip=\skip43
-\UL@hook=\toks17
+\UL@hook=\toks19
 \UL@height=\dimen131
-\UL@pe=\count96
+\UL@pe=\count97
 \UL@pixel=\dimen132
-\ULC@box=\box44
+\ULC@box=\box46
 Package: ulem 2012/05/18
 \ULdepth=\dimen133
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
@@ -100,17 +109,17 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 Package: expl3 2017/05/13 L3 programming layer (loader) 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/05/13 L3 programming layer (code)
-\c_max_int=\count97
-\l_tmpa_int=\count98
-\l_tmpb_int=\count99
-\g_tmpa_int=\count100
-\g_tmpb_int=\count101
-\g__prg_map_int=\count102
-\c_log_iow=\count103
-\l_iow_line_count_int=\count104
-\l__iow_line_target_int=\count105
-\l__iow_one_indent_int=\count106
-\l__iow_indent_int=\count107
+\c_max_int=\count98
+\l_tmpa_int=\count99
+\l_tmpb_int=\count100
+\g_tmpa_int=\count101
+\g_tmpb_int=\count102
+\g__prg_map_int=\count103
+\c_log_iow=\count104
+\l_iow_line_count_int=\count105
+\l__iow_line_target_int=\count106
+\l__iow_one_indent_int=\count107
+\l__iow_indent_int=\count108
 \c_zero_dim=\dimen136
 \c_max_dim=\dimen137
 \l_tmpa_dim=\dimen138
@@ -129,35 +138,35 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count108
-\c__fp_leading_shift_int=\count109
-\c__fp_middle_shift_int=\count110
-\c__fp_trailing_shift_int=\count111
-\c__fp_big_leading_shift_int=\count112
-\c__fp_big_middle_shift_int=\count113
-\c__fp_big_trailing_shift_int=\count114
-\c__fp_Bigg_leading_shift_int=\count115
-\c__fp_Bigg_middle_shift_int=\count116
-\c__fp_Bigg_trailing_shift_int=\count117
-\c__fp_rand_size_int=\count118
-\c__fp_rand_four_int=\count119
-\c__fp_rand_eight_int=\count120
-\l__sort_length_int=\count121
-\l__sort_min_int=\count122
-\l__sort_top_int=\count123
-\l__sort_max_int=\count124
-\l__sort_true_max_int=\count125
-\l__sort_block_int=\count126
-\l__sort_begin_int=\count127
-\l__sort_end_int=\count128
-\l__sort_A_int=\count129
-\l__sort_B_int=\count130
-\l__sort_C_int=\count131
-\c_empty_box=\box45
-\l_tmpa_box=\box46
-\l_tmpb_box=\box47
-\g_tmpa_box=\box48
-\g_tmpb_box=\box49
+\l_keys_choice_int=\count109
+\c__fp_leading_shift_int=\count110
+\c__fp_middle_shift_int=\count111
+\c__fp_trailing_shift_int=\count112
+\c__fp_big_leading_shift_int=\count113
+\c__fp_big_middle_shift_int=\count114
+\c__fp_big_trailing_shift_int=\count115
+\c__fp_Bigg_leading_shift_int=\count116
+\c__fp_Bigg_middle_shift_int=\count117
+\c__fp_Bigg_trailing_shift_int=\count118
+\c__fp_rand_size_int=\count119
+\c__fp_rand_four_int=\count120
+\c__fp_rand_eight_int=\count121
+\l__sort_length_int=\count122
+\l__sort_min_int=\count123
+\l__sort_top_int=\count124
+\l__sort_max_int=\count125
+\l__sort_true_max_int=\count126
+\l__sort_block_int=\count127
+\l__sort_begin_int=\count128
+\l__sort_end_int=\count129
+\l__sort_A_int=\count130
+\l__sort_B_int=\count131
+\l__sort_C_int=\count132
+\c_empty_box=\box47
+\l_tmpa_box=\box48
+\l_tmpb_box=\box49
+\g_tmpa_box=\box50
+\g_tmpb_box=\box51
 \l__box_top_dim=\dimen142
 \l__box_bottom_dim=\dimen143
 \l__box_left_dim=\dimen144
@@ -166,8 +175,8 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__box_bottom_new_dim=\dimen147
 \l__box_left_new_dim=\dimen148
 \l__box_right_new_dim=\dimen149
-\l__box_internal_box=\box50
-\l__coffin_internal_box=\box51
+\l__box_internal_box=\box52
+\l__coffin_internal_box=\box53
 \l__coffin_internal_dim=\dimen150
 \l__coffin_offset_x_dim=\dimen151
 \l__coffin_offset_y_dim=\dimen152
@@ -175,14 +184,14 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__coffin_y_dim=\dimen154
 \l__coffin_x_prime_dim=\dimen155
 \l__coffin_y_prime_dim=\dimen156
-\c_empty_coffin=\box52
-\l__coffin_aligned_coffin=\box53
-\l__coffin_aligned_internal_coffin=\box54
-\l_tmpa_coffin=\box55
-\l_tmpb_coffin=\box56
-\l__coffin_display_coffin=\box57
-\l__coffin_display_coord_coffin=\box58
-\l__coffin_display_pole_coffin=\box59
+\c_empty_coffin=\box54
+\l__coffin_aligned_coffin=\box55
+\l__coffin_aligned_internal_coffin=\box56
+\l_tmpa_coffin=\box57
+\l_tmpb_coffin=\box58
+\l__coffin_display_coffin=\box59
+\l__coffin_display_coord_coffin=\box60
+\l__coffin_display_pole_coffin=\box61
 \l__coffin_display_offset_dim=\dimen157
 \l__coffin_display_x_dim=\dimen158
 \l__coffin_display_y_dim=\dimen159
@@ -195,55 +204,55 @@ Package: expl3 2017/05/13 L3 programming layer (code)
 \l__coffin_scaled_width_dim=\dimen166
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3dvipdfmx.def
 File: l3dvidpfmx.def 2017/03/18 v L3 Experimental driver: dvipdfmx
-\l__driver_tmp_box=\box60
+\l__driver_tmp_box=\box62
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/05/13 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count132
-\g__xparse_grabber_int=\count133
-\l__xparse_m_args_int=\count134
-\l__xparse_mandatory_args_int=\count135
-\l__xparse_v_nesting_int=\count136
+\l__xparse_current_arg_int=\count133
+\g__xparse_grabber_int=\count134
+\l__xparse_m_args_int=\count135
+\l__xparse_mandatory_args_int=\count136
+\l__xparse_v_nesting_int=\count137
 )
 Package: siunitx 2017/05/19 v2.7g A comprehensive (SI) units package
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks20
 \ex@=\dimen167
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen168
 \extrarowheight=\dimen169
-\NC@list=\toks19
+\NC@list=\toks21
 \extratabsurround=\skip50
 \backup@length=\skip51
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
 )
-\l__siunitx_tmp_box=\box61
+\l__siunitx_tmp_box=\box63
 \l__siunitx_tmp_dim=\dimen170
-\l__siunitx_tmp_int=\count137
-\l__siunitx_number_mantissa_length_int=\count138
-\l__siunitx_number_uncert_length_int=\count139
-\l__siunitx_round_int=\count140
-\l__siunitx_process_decimal_int=\count141
-\l__siunitx_process_uncertainty_int=\count142
-\l__siunitx_process_fixed_int=\count143
-\l__siunitx_process_integer_min_int=\count144
-\l__siunitx_process_precision_int=\count145
-\l__siunitx_group_min_int=\count146
-\l__siunitx_angle_marker_box=\box62
-\l__siunitx_angle_unit_box=\box63
+\l__siunitx_tmp_int=\count138
+\l__siunitx_number_mantissa_length_int=\count139
+\l__siunitx_number_uncert_length_int=\count140
+\l__siunitx_round_int=\count141
+\l__siunitx_process_decimal_int=\count142
+\l__siunitx_process_uncertainty_int=\count143
+\l__siunitx_process_fixed_int=\count144
+\l__siunitx_process_integer_min_int=\count145
+\l__siunitx_process_precision_int=\count146
+\l__siunitx_group_min_int=\count147
+\l__siunitx_angle_marker_box=\box64
+\l__siunitx_angle_unit_box=\box65
 \l__siunitx_angle_marker_dim=\dimen171
 \l__siunitx_angle_unit_dim=\dimen172
-\l__siunitx_unit_int=\count147
-\l__siunitx_unit_denominator_int=\count148
-\l__siunitx_unit_numerator_int=\count149
-\l__siunitx_unit_prefix_int=\count150
-\l__siunitx_unit_prefix_base_int=\count151
-\l__siunitx_unit_prefix_gram_int=\count152
-\l__siunitx_number_product_int=\count153
+\l__siunitx_unit_int=\count148
+\l__siunitx_unit_denominator_int=\count149
+\l__siunitx_unit_numerator_int=\count150
+\l__siunitx_unit_prefix_int=\count151
+\l__siunitx_unit_prefix_base_int=\count152
+\l__siunitx_unit_prefix_gram_int=\count153
+\l__siunitx_number_product_int=\count154
 \c__siunitx_one_fill_skip=\skip52
 \l__siunitx_table_unit_align_skip=\skip53
 \l__siunitx_table_exponent_dim=\dimen173
@@ -255,10 +264,10 @@ Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_fill_pre_dim=\dimen179
 \l__siunitx_table_fill_post_dim=\dimen180
 \l__siunitx_table_fill_mid_dim=\dimen181
-\l__siunitx_table_pre_box=\box64
-\l__siunitx_table_post_box=\box65
-\l__siunitx_table_mantissa_box=\box66
-\l__siunitx_table_result_box=\box67
+\l__siunitx_table_pre_box=\box66
+\l__siunitx_table_post_box=\box67
+\l__siunitx_table_mantissa_box=\box68
+\l__siunitx_table_result_box=\box69
 \l__siunitx_table_number_align_skip=\skip54
 \l__siunitx_table_text_align_skip=\skip55
 .................................................
@@ -377,10 +386,10 @@ Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
 . Defining command \siInBookmark with sig. 'om' on line 7433.
 .................................................
 \g__file_internal_ior=\read1
- (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
- (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex)))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex))) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip56
 
@@ -391,41 +400,41 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count154
+\inf@bad=\count155
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count155
-\leftroot@=\count156
+\uproot@=\count156
+\leftroot@=\count157
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count157
-\DOTSCASE@=\count158
+\classnum@=\count158
+\DOTSCASE@=\count159
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box68
-\strutbox@=\box69
+\Mathstrutbox@=\box70
+\strutbox@=\box71
 \big@size=\dimen183
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count159
-\c@MaxMatrixCols=\count160
+\macc@depth=\count160
+\c@MaxMatrixCols=\count161
 \dotsspace@=\muskip16
-\c@parentequation=\count161
-\dspbrk@lvl=\count162
-\tag@help=\toks20
-\row@=\count163
-\column@=\count164
-\maxfields@=\count165
-\andhelp@=\toks21
+\c@parentequation=\count162
+\dspbrk@lvl=\count163
+\tag@help=\toks22
+\row@=\count164
+\column@=\count165
+\maxfields@=\count166
+\andhelp@=\toks23
 \eqnshift@=\dimen184
 \alignsep@=\dimen185
 \tagshift@=\dimen186
 \tagwidth@=\dimen187
 \totwidth@=\dimen188
 \lineht@=\dimen189
-\@envbody=\toks22
+\@envbody=\toks24
 \multlinegap=\skip57
 \multlinetaggap=\skip58
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/subcaption.sty
@@ -451,10 +460,11 @@ Package caption Warning: Unsupported document class (or package) detected,
 See the caption package documentation for explanation.
 
 Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionskip \iftdir \sbox \@tempboxa {#1\hskip 1zw#2}\else \sbox \@tempboxa {#1: #2}\fi \ifdim \wd \@tempboxa >\hsize \iftdir #1\hskip 1zw#2\relax \par \else #1: #2\relax \par \fi \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip \belowcaptionskip .
-\c@ContinuedFloat=\count166
+\c@ContinuedFloat=\count167
+Package caption Info: float package is loaded.
 )
-\c@subfigure=\count167
-\c@subtable=\count168
+\c@subfigure=\count168
+\c@subtable=\count169
 ) (./00_macro.tex) (./main.aux
 
 LaTeX Warning: Label `formula:fitts' multiply defined.
@@ -462,24 +472,24 @@ LaTeX Warning: Label `formula:fitts' multiply defined.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
  (I search kanjifont definition file: . . ) (I search font definition file: . . . . . . . )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 65.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 67.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -524,28 +534,28 @@ File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-\c__siunitx_mathsf_int=\count169
-\c__siunitx_mathtt_int=\count170
+\c__siunitx_mathsf_int=\count170
+\c__siunitx_mathtt_int=\count171
 
-Underfull \vbox (badness 10000) detected at line 66
+Underfull \vbox (badness 10000) detected at line 68
  []
 
 [-1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 78.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 78.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 80.
  [0]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 89.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 89.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
  (./main.toc
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
@@ -556,32 +566,32 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
  [1
 
 ])
-\tf@toc=\write3
-\openout3 = `main.toc'.
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
  [2] (./main.lof)
-\tf@lof=\write4
-\openout4 = `main.lof'.
+\tf@lof=\write5
+\openout5 = `main.lof'.
 
  [3
 
 ] (./main.lot)
-\tf@lot=\write5
-\openout5 = `main.lot'.
+\tf@lot=\write6
+\openout6 = `main.lot'.
 
  [4
 
 ] (./background.tex
 第 1 章
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 23.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
  [1
 
-]) (./relatedwork.tex [2]
+] Excluding 'comment' comment.) (./relatedwork.tex [2]
 第 2 章
 File: ./img/multitoe.png Graphic file (type bmp)
 <./img/multitoe.png> [3
@@ -597,24 +607,26 @@ File: ./img/sousa1.pdf Graphic file (type pdf)
 
 ] [7] [8] [9]
 第 4 章
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
-[10
+File: ./img/proto_outline.pdf Graphic file (type pdf)
+<./img/proto_outline.pdf> [10
 
 ]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
+ [11] [12]
 File: ./img/proto.pdf Graphic file (type pdf)
  <./img/proto.pdf>
 File: ./img/proto2-1.pdf Graphic file (type pdf)
- <./img/proto2-1.pdf>) (./exp1_fitts.tex [11] [12]
+ <./img/proto2-1.pdf>) (./exp1_fitts.tex [13] [14]
 第 5 章
 File: ./img/mdpt.png Graphic file (type bmp)
-<./img/mdpt.png> [13
+<./img/mdpt.png> [15
 
-] [14]
+] [16]
 File: ./img/left.pdf Graphic file (type pdf)
  <./img/left.pdf>
 File: ./img/right.pdf Graphic file (type pdf)
@@ -622,15 +634,23 @@ File: ./img/right.pdf Graphic file (type pdf)
 File: ./img/error.pdf Graphic file (type pdf)
  <./img/error.pdf>
 File: ./img/tp.pdf Graphic file (type pdf)
- <./img/tp.pdf>) (./discussion.tex [15] [16] [17] [18] [19]
+ <./img/tp.pdf>
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 63.
+
+Missing character: There is no ^^e2 in font ptmr7t!
+Missing character: There is no ^^89 in font ptmr7t!
+Missing character: There is no ^^88 in font ptmr7t!
+) (./discussion.tex [17] [18] [19] [20] [21] [22]
 第 6 章
-) (./conclusion.tex [20
+[23
 
-]
+]) (./conclusion.tex [24]
 第 7 章
-) (./acknowledgement.tex [21
+) (./acknowledgement.tex [25
 
-]) [22
+]) [26
 
 ] (./main.bbl
 
@@ -641,9 +661,9 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 8.
 
-[23
+[27
 
-]) [24] (./main.aux)
+]) [28] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -652,12 +672,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 12953 strings out of 493653
- 263822 string characters out of 6148874
- 293874 words of memory out of 5000000
- 16405 multiletter control sequences out of 15000+600000
+ 13063 strings out of 493653
+ 265595 string characters out of 6148874
+ 296425 words of memory out of 5000000
+ 16502 multiletter control sequences out of 15000+600000
  25887 words of font info for 91 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 42i,8n,44p,10455b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,16n,44p,10455b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (30 pages, 59224 bytes).
+Output written on main.dvi (34 pages, 81680 bytes).

@@ -5,23 +5,30 @@
 \contentsline {section}{\numberline {1.4}本論文の構成}{2}
 \contentsline {chapter}{\numberline {第2章}関連研究}{3}
 \contentsline {section}{\numberline {2.1}足をジェスチャ入力として用いる研究}{3}
-\contentsline {section}{\numberline {2.2}デスクトップ環境を想定した足による入力の研究}{3}
+\contentsline {section}{\numberline {2.2}机上のコンピュータの操作という環境を想定した足による入力の研究}{3}
 \contentsline {section}{\numberline {2.3}膝を入力手法として用いる研究}{5}
-\contentsline {chapter}{\numberline {第3章}システム}{6}
+\contentsline {chapter}{\numberline {第3章}膝の位置認識方法の設計}{6}
 \contentsline {section}{\numberline {3.1}概要}{6}
-\contentsline {section}{\numberline {3.2}膝の操作}{6}
+\contentsline {section}{\numberline {3.2}認識する膝の動作}{6}
 \contentsline {chapter}{\numberline {第4章}実装}{10}
-\contentsline {section}{\numberline {4.1}概要}{10}
-\contentsline {section}{\numberline {4.2}プロトタイプ}{10}
-\contentsline {subsection}{\numberline {4.2.1}ハードウェア}{10}
-\contentsline {subsection}{\numberline {4.2.2}ソフトウェア}{10}
-\contentsline {chapter}{\numberline {第5章}実験:膝によるマウスカーソル操作の性能評価}{13}
-\contentsline {section}{\numberline {5.1}目的}{13}
-\contentsline {section}{\numberline {5.2}評価方法}{13}
-\contentsline {section}{\numberline {5.3}実験手順}{14}
-\contentsline {section}{\numberline {5.4}収集データ}{15}
-\contentsline {section}{\numberline {5.5}実験結果}{15}
-\contentsline {chapter}{\numberline {第6章}議論}{20}
-\contentsline {chapter}{\numberline {第7章}結論}{21}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{22}
-\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{23}
+\contentsline {section}{\numberline {4.1}ハードウェア}{10}
+\contentsline {section}{\numberline {4.2}ソフトウェア}{11}
+\contentsline {subsection}{\numberline {4.2.1}指数移動平均フィルタ}{11}
+\contentsline {subsection}{\numberline {4.2.2}膝の位置の計算}{11}
+\contentsline {subsection}{\numberline {4.2.3}キャリブレーション}{12}
+\contentsline {subsection}{\numberline {4.2.4}カーソル座標への適用}{12}
+\contentsline {chapter}{\numberline {第5章}実験:膝によるマウスカーソル操作の性能評価}{15}
+\contentsline {section}{\numberline {5.1}目的}{15}
+\contentsline {section}{\numberline {5.2}評価方法}{15}
+\contentsline {section}{\numberline {5.3}実験手順}{16}
+\contentsline {section}{\numberline {5.4}収集データ}{17}
+\contentsline {section}{\numberline {5.5}実験結果}{17}
+\contentsline {chapter}{\numberline {第6章}議論と今後の展望}{23}
+\contentsline {section}{\numberline {6.1}ハードウェア設計}{23}
+\contentsline {subsection}{\numberline {6.1.1}膝の運動の特徴}{23}
+\contentsline {subsection}{\numberline {6.1.2}距離センサの個数}{23}
+\contentsline {section}{\numberline {6.2}エラー率とキャリブレーション}{23}
+\contentsline {section}{\numberline {6.3}操作性と疲労感の改善}{24}
+\contentsline {chapter}{\numberline {第7章}結論}{25}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }謝辞}{26}
+\contentsline {chapter}{\hbox to\@lnumwidth {\hfil }参考文献}{27}
