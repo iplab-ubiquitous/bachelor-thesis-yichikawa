@@ -2,18 +2,23 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Multitoe\cite {Augsten:2010:MHI:1866029.1866064}\relax }}{4}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces 膝によるマウスカーソル操作のイメージ\relax }}{7}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces 上下方向の操作イメージ1\relax }}{8}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces 上下方向の操作イメージ2\relax }}{9}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ワープロソフトの利用時に膝でマウスカーソルを操作するイメージ\relax }}{7}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 画面を見ながら作業をするイメージ\relax }}{8}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces プロトタイプの概念図\relax }}{10}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 製作したプロトタイプの一部\relax }}{13}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces 移動物体に対する距離センサの設置方向概念図\relax }}{14}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 膝によるマウスカーソル操作のイメージ\relax }}{10}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 左右方向の操作イメージ1\relax }}{11}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 左右方向の操作イメージ2\relax }}{12}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 上下方向の操作イメージ1\relax }}{13}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 上下方向の操作イメージ2\relax }}{14}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces 使用したプログラム\relax }}{16}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces 左膝の選択時間とそのモデル\relax }}{18}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces 右膝の選択時間とそのモデル\relax }}{19}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces 両膝のエラー率\relax }}{20}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces 両膝のスループット\relax }}{22}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces プロトタイプの概念図\relax }}{15}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 製作したプロトタイプの一部\relax }}{18}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 移動物体に対する距離センサの設置方向概念図\relax }}{19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces 使用したプログラム\relax }}{21}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces 左膝の選択時間とそのモデル\relax }}{23}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces 右膝の選択時間とそのモデル\relax }}{24}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces 両膝のエラー率\relax }}{25}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces 両膝のスループット\relax }}{27}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
