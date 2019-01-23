@@ -89,7 +89,7 @@ Eduardo Velloso, Jason Alexander, Andreas Bulling, and Hans Gellersen.
 \bibitem{110004704997}
 田中則子, 上田知生, 中尾恵, 佐藤哲大, 湊小太郎, 吉田正樹, 纐纈和美.
 \newblock 足指マウス開発にむけての基礎的検討 : 母指の運動特性.
-\newblock 生体医工学 : 日本エム・イー学会誌, Vol.~43, No.~4, pp. 790--794, dec
+\newblock 生体医工学 : 日本エム・イー学会誌, Vol.~43, No.~4, pp. 790--794,
   2005.
 
 \bibitem{Gobel:2013:GFI:2468356.2479610}
@@ -112,5 +112,12 @@ Robert Xiao, Teng Cao, Ning Guo, Jun Zhuo, Yang Zhang, and Chris Harrison.
 \newblock Lumiwatch: On-arm projected graphics and touch input.
 \newblock In {\em Proceedings of the 2018 CHI Conference on Human Factors in
   Computing Systems}, CHI '18, pp. 95:1--95:11, New York, NY, USA, 2018. ACM.
+
+\bibitem{fitts}
+P.~M. Fitts.
+\newblock The information capacity of the human motor system in controlling the
+  amplitude of movement.
+\newblock {\em Journal of experimental psychology}, Vol.~47, No.~6, pp.
+  381--391, 1954.
 
 \end{thebibliography}
