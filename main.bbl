@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}
 
+\bibitem{1698228}
+W.~K. English, D.~C. Engelbart, and M.~L. Berman.
+\newblock Display-selection techniques for text manipulation.
+\newblock {\em IEEE Transactions on Human Factors in Electronics}, Vol. HFE-8,
+  No.~1, pp. 5--15, 1967.
+
 \bibitem{Augsten:2010:MHI:1866029.1866064}
 Thomas Augsten, Konstantin Kaefer, Ren{\'e} Meusel, Caroline Fetzer, Dorian
   Kanitz, Thomas Stoff, Torsten Becker, Christian Holz, and Patrick Baudisch.
@@ -8,12 +14,6 @@ Thomas Augsten, Konstantin Kaefer, Ren{\'e} Meusel, Caroline Fetzer, Dorian
 \newblock In {\em Proceedings of the 23Nd Annual ACM Symposium on User
   Interface Software and Technology}, UIST '10, pp. 209--218, New York, NY,
   USA, 2010. ACM.
-
-\bibitem{1698228}
-W.~K. English, D.~C. Engelbart, and M.~L. Berman.
-\newblock Display-selection techniques for text manipulation.
-\newblock {\em IEEE Transactions on Human Factors in Electronics}, Vol. HFE-8,
-  No.~1, pp. 5--15, March 1967.
 
 \bibitem{Fan:2017:ESF:3123021.3123043}
 Mingming Fan, Yizheng Ding, Fang Shen, Yuhui You, and Zhi Yu.
@@ -24,7 +24,8 @@ Mingming Fan, Yizheng Ding, Fang Shen, Yuhui You, and Zhi Yu.
 
 \bibitem{okumura_2011}
 奥村典明.
-\newblock モバイル環境における足入力インタフェースの研究, 2011.
+\newblock モバイル環境における足入力インタフェースの研究.
+\newblock Master's thesis, 筑波大学, 2011.
 
 \bibitem{Pearson:1986:MMD:22627.22392}
 G.~Pearson and M.~Weiser.
@@ -36,7 +37,7 @@ G.~Pearson and M.~Weiser.
 Glenn Pearson and Mark Weiser.
 \newblock Exploratory evaluations of two versions of a foot-operated
   cursor-positioning device in a target-selection task.
-\newblock {\em SIGCHI Bull.}, Vol.~19, No.~3, pp. 70--75, January 1988.
+\newblock {\em SIGCHI Bull.}, Vol.~19, No.~3, pp. 70--75, 1988.
 
 \bibitem{Horodniczy:2017:FHE:3025453.3025625}
 Daniel Horodniczy and Jeremy~R. Cooperstock.
@@ -63,8 +64,8 @@ Teng Han, Jason Alexander, Abhijit Karnik, Pourang Irani, and Sriram
 \bibitem{ssuzuki_2009}
 鈴木茂徳.
 \newblock
-  フットワークインタラクションのための測域センサによる足の位置・動作の認識手法,
-  2009.
+  フットワークインタラクションのための測域センサによる足の位置・動作の認識手法.
+\newblock Master's thesis, 筑波大学, 2009.
 
 \bibitem{Felberbaum:2018:BUF:3173574.3173908}
 Yasmin Felberbaum and Joel Lanir.
@@ -119,5 +120,10 @@ P.~M. Fitts.
   amplitude of movement.
 \newblock {\em Journal of experimental psychology}, Vol.~47, No.~6, pp.
   381--391, 1954.
+
+\bibitem{9241411}
+International Organization for Standardization.
+\newblock Ergonomics of human-system interaction ― Part 411: Evaluation
+  methods for the design of physical input devices, 2012.
 
 \end{thebibliography}
