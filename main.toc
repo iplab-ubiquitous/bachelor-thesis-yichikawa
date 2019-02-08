@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {4.2}ハードウェア}{13}
 \contentsline {section}{\numberline {4.3}膝の位置の計算}{14}
 \contentsline {subsection}{\numberline {4.3.1}指数移動平均フィルタ}{14}
-\contentsline {subsection}{\numberline {4.3.2}膝位置認識}{15}
+\contentsline {subsection}{\numberline {4.3.2}膝位置認識}{14}
 \contentsline {section}{\numberline {4.4}膝の位置からカーソル座標への変換}{15}
 \contentsline {subsection}{\numberline {4.4.1}キャリブレーション}{15}
 \contentsline {subsection}{\numberline {4.4.2}カーソル座標への適用}{15}
